@@ -1,6 +1,6 @@
 <h1 align="center">imacedo.com (WIP)</h1>
 <p>
-  BR - Site pessoal para armazenar projetos pessoais e meu playground para testar e brincar com novas ideias e/ou tecnologias. <br />
+  BR - Site pessoal para armazenar projetos e meu playground para testar e brincar com novas ideias e/ou tecnologias. <br />
   EN - Personal website to store personal projects and my playground to test and play with new ideias and/or tecnologies.
 </p> 
 
