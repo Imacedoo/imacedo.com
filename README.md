@@ -37,7 +37,8 @@
         Projeto PDPD - Glossário de Libras
       </a>
     </td>
-    <tr>
+  </tr>
+  <tr>
     <td>
       <img src="https://img.shields.io/badge/HostGator-success-3FB911"/>
     </td>
@@ -45,6 +46,14 @@
       <a href="http://recantopaulistaparaiso2.com.br/">
         Pizzaria Recanto Paulista 2
       </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/HostGator-WIP-134F5C"/>
+    </td>
+    <td>
+      Tubarão Robots
     </td>
   </tr>
 </table>
