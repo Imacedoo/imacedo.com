@@ -10,6 +10,26 @@
     <th>Status</th>
     <th>Projeto / Project</th>
   </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/github/deployments/omariosouto/mariosouto.com/Production%20%E2%80%93%20skntech-site?label=vercel&logo=vercel&logoColor=white"/>
+    </td>
+    <td>
+      <a href="https://github.com/Imacedoo/instalura">
+        Instalura (Bootcamp JAMSTACK Alura)
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/github/deployments/omariosouto/mariosouto.com/Production%20%E2%80%93%20skntech-site?label=vercel&logo=vercel&logoColor=white"/>
+    </td>
+    <td>
+      <a href="https://github.com/Imacedoo/quiz-da-quebrada">
+        Quiz da quebrada (Imersão React/NextJs)
+      </a>
+    </td>
+  </tr>
 </table>
 
 <h1 align="center">Projetos privados / Private Projects</h1>
