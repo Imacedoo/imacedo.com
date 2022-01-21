@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/github/deployments/omariosouto/mariosouto.com/Production%20%E2%80%93%20skntech-site?label=vercel&logo=vercel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
     </td>
     <td>
       <a href="https://github.com/Imacedoo/instalura">
@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/github/deployments/omariosouto/mariosouto.com/Production%20%E2%80%93%20skntech-site?label=vercel&logo=vercel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
     </td>
     <td>
       <a href="https://github.com/Imacedoo/quiz-da-quebrada">
