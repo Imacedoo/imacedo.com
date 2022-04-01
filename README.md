@@ -70,7 +70,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/HostGator-WIP-134F5C"/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
     </td>
     <td>
       <a href="https://www.tubaraorobots.com.br/">
