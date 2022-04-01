@@ -73,7 +73,9 @@
       <img src="https://img.shields.io/badge/HostGator-WIP-134F5C"/>
     </td>
     <td>
-      Tubarão Robots
+      <a href="https://www.tubaraorobots.com.br/">
+        Tubarão Robots
+      </a>  
     </td>
   </tr>
 </table>
