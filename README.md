@@ -43,7 +43,7 @@
       <img src="https://img.shields.io/badge/Locaweb-success-3FB911"/>
     </td>
     <td>
-      <a href="http://katekumada.com.br/">
+      <a href="http://www.katekumada.com.br/">
         Site Profª Draª Kate Kumada
       </a>
     </td>
@@ -53,7 +53,7 @@
       <img src="https://img.shields.io/badge/Locaweb-success-3FB911"/>
     </td>
     <td>
-      <a href="http://katekumada.com.br/glossario-librateca/glossario/">
+      <a href="http://www.katekumada.com.br/glossario-librateca/glossario/">
         Projeto PDPD - Glossário de Libras
       </a>
     </td>
