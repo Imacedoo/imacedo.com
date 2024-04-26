@@ -43,7 +43,7 @@
       <img src="https://img.shields.io/badge/Locaweb-success-3FB911"/>
     </td>
     <td>
-      <a href="http://www.katekumada.com.br/">
+      <a href="https://www.katekumada.com.br/">
         Site Profª Draª Kate Kumada
       </a>
     </td>
@@ -53,7 +53,7 @@
       <img src="https://img.shields.io/badge/Locaweb-success-3FB911"/>
     </td>
     <td>
-      <a href="http://www.katekumada.com.br/glossario-librateca/glossario/">
+      <a href="https://www.katekumada.com.br/glossario-librateca/glossario/">
         Projeto PDPD - Glossário de Libras
       </a>
     </td>
@@ -63,7 +63,7 @@
       <img src="https://img.shields.io/badge/HostGator-success-3FB911"/>
     </td>
     <td>
-      <a href="http://recantopaulistaparaiso2.com.br/">
+      <a href="https://recantopaulistaparaiso2.com.br/">
         Pizzaria Recanto Paulista 2
       </a>
     </td>
