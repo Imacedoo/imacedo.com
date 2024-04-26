@@ -53,7 +53,7 @@
       <img src="https://img.shields.io/badge/Locaweb-success-3FB911"/>
     </td>
     <td>
-      <a href="https://www.katekumada.com.br/glossario-librateca/glossario/">
+      <a href="https://www.katekumada.com.br/glossario-librateca">
         Projeto PDPD - Glossário de Libras
       </a>
     </td>
