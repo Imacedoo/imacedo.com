@@ -60,6 +60,16 @@
   </tr>
   <tr>
     <td>
+      <img src="https://img.shields.io/badge/Bohr.io-success-3FB911"/>
+    </td>
+    <td>
+      <a href="https://vida-independente.bohr.io/">
+        Vida independente (Em breve em domínio próprio)
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img src="https://img.shields.io/badge/HostGator-success-3FB911"/>
     </td>
     <td>
